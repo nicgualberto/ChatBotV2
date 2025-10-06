@@ -4,7 +4,7 @@ import os
 
 key = os.getenv("API_KEY")
 
-genai.configure(api_key=key)
+genai.configure(api_key=st.screts["API_KEY"])
 
 st.title("Papo com a IA")
 
