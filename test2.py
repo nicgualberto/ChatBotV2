@@ -31,6 +31,7 @@ if user_input:
         [{"role": m["role"], "parts": [m["content"]]} for m in st.session_state.mensagens]
     )
 
+    st.write('Pensando na sua resposta...')
     resposta_ia = resposta.text
     st.chat_message("assistant").write(resposta_ia)
     st.session_state.mensagens.append({"role": "assistant", "content": resposta_ia})
