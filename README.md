@@ -6,7 +6,8 @@ Bem-vindo ao **Papo com IA** — um chatbot feito em **Python** com **Streamlit*
 
 ## 🌐 Acesse o site
 
-👉 [Papo com IA no ar!](https://chatbotv2-wwancbsgrewxoytwn5evrz.streamlit.app/)  
+👉 [Papo com IA no ar!](https://chatbotv2-wwancbsgrewxoytwn5evrz.streamlit.app/) 
+(O site por enquanto encontra-se inativo por questões financeiras para créditos da API do Gemini AI)
 
 
 Abra o site, espere carregar e comece o papo. A IA está pronta pra trocar ideia sobre o que você quiser — estudos, curiosidades, código, o que der na telha.
